@@ -6,10 +6,10 @@ Find Operations
 
 - :doc:`Find a Document </usage-examples/findOne>`
 
-- :doc:`Find Multiple Documents </usage-examples/find>`
+- :doc:`Find Multiple Documents </usage-examples/findMany>`
 
 .. toctree::
    :caption: Examples
 
    /usage-examples/findOne
-   /usage-examples/find
+   /usage-examples/findMany
